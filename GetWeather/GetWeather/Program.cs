@@ -32,12 +32,15 @@ namespace GetWeather
                 {
                     await Console.Out.WriteLineAsync("hava istiliyi heddinde artiq coxdur!");
                 }
+                else if(myDeserializedClass.current.temp_c > 26 && myDeserializedClass.current.temp_c <40 )
+                {
+                    await Console.Out.WriteLineAsync("mulayim hava  tempraturu var " + myDeserializedClass.current.temp_c + " C");
+                }
                 else
                 {
-                    await Console.Out.WriteLineAsync("hava tempraturu : " + myDeserializedClass.current.temp_c + " C");
+                    await Console.Out.WriteLineAsync("hava tempraturu var " + myDeserializedClass.current.temp_c + " C");
                 }
             }
-            Console.WriteLine("yenilemek ucun 1 duymesine basin");
         }
     }
 
