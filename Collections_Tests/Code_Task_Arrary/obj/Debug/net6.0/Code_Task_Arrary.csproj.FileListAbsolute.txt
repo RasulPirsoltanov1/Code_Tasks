@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\bin\Debug\net6.0\Code_Task_Arrary.exe
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\bin\Debug\net6.0\Code_Task_Arrary.deps.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\bin\Debug\net6.0\Code_Task_Arrary.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\bin\Debug\net6.0\Code_Task_Arrary.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\bin\Debug\net6.0\Code_Task_Arrary.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\refint\Code_Task_Arrary.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\Code_Task_Arrary.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Code_Task_Arrary\obj\Debug\net6.0\ref\Code_Task_Arrary.dll
