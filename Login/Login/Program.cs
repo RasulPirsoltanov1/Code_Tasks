@@ -8,7 +8,7 @@ using System.Numerics;
 
 namespace Login
 {
-    internal class Program
+    internal partial class Program
     {
         private static (string username, string password) user = ("admin", "123");
         static void Main(string[] args)
@@ -45,27 +45,6 @@ namespace Login
                     Console.WriteLine("username or passwor is incorrect! please try again.\n");
                     Console.ResetColor();
                 }
-            }
-        }
-
-        public class ConsoleSpiner
-        {
-            int counter;
-            public ConsoleSpiner()
-            {
-                counter = 0;
-            }
-            public void Turn()
-            {
-                counter++;
-                switch (counter % 4)
-                {
-                    case 0: Console.Write("/"); break;
-                    case 1: Console.Write("-"); break;
-                    case 2: Console.Write("\\"); break;
-                    case 3: Console.Write("|"); break;
-                }
-                Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
             }
         }
     }
