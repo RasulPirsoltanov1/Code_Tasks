@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\ConsoleApp1\\ConsoleApp1\\ATM_Simulator.csproj",
-      "projectName": "ATM_Simulator",
-      "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\ConsoleApp1\\ConsoleApp1\\ATM_Simulator.csproj",
+      "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\Login\\Login\\Login.csproj",
+      "projectName": "Login",
+      "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\Login\\Login\\Login.csproj",
       "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\Login\\Login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

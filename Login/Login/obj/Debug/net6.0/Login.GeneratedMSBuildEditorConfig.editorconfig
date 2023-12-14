@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ATM_Simulator
-build_property.ProjectDir = C:\Users\resul\OneDrive\Masaüstü\Code\ConsoleApp1\ConsoleApp1\
+build_property.RootNamespace = Login
+build_property.ProjectDir = C:\Users\resul\OneDrive\Masaüstü\Code\Login\Login\
