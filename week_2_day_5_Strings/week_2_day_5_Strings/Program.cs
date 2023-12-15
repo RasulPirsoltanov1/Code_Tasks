@@ -17,6 +17,32 @@ namespace week_2_day_5_Strings
                 }
                 Console.WriteLine();
             }
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            for (int i = 0; i <= 8; i++)
+            {
+                if(i == 0 ||i==8)
+                {
+                    for (int j = 0; j < 8; j++)
+                    {
+                        Console.Write("*");
+                    }
+                }
+                else
+                {
+                    for (int j = 0; j < 1; j++)
+                    {
+                        Console.Write("*      *");
+                    }
+                }
+              
+                Console.WriteLine();
+            }
+
+
         }
         static void Main7(string[] a)
         {
