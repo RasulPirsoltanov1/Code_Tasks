@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\bin\Debug\net6.0\Vurma_Cedveli.exe
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\bin\Debug\net6.0\Vurma_Cedveli.deps.json
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\bin\Debug\net6.0\Vurma_Cedveli.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\bin\Debug\net6.0\Vurma_Cedveli.dll
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\bin\Debug\net6.0\Vurma_Cedveli.pdb
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.dll
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\refint\Vurma_Cedveli.dll
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.pdb
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\Vurma_Cedveli.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Vurma_Cedveli\obj\Debug\net6.0\ref\Vurma_Cedveli.dll
