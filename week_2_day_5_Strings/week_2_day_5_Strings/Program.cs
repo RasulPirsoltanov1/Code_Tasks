@@ -9,6 +9,17 @@ namespace week_2_day_5_Strings
     {
         static void Main(string[] a)
         {
+            for (int i = 0; i <= 8; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+        static void Main7(string[] a)
+        {
             for (int i = 'A'; i <='z'; i++)
             {
                 Console.WriteLine((char)(i));
