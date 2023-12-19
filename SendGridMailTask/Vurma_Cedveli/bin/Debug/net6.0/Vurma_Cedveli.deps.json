@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vurma_Cedveli/1.0.0": {
+        "runtime": {
+          "Vurma_Cedveli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vurma_Cedveli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

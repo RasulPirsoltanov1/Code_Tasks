@@ -9,16 +9,14 @@ namespace week_2_day_5_Strings
     {
         static void Main(string[] a)
         {
+            string triangle = "";
+
             for (int i = 0; i <= 8; i++)
             {
-                for (int j = 0; j < i; j++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
+                triangle+=triangle.PadRight(i , '*');
             }
 
-            Console.WriteLine();
+            Console.WriteLine(triangle);
             Console.WriteLine();
             Console.WriteLine();
 
@@ -26,10 +24,7 @@ namespace week_2_day_5_Strings
             {
                 if(i == 0 ||i==8)
                 {
-                    for (int j = 0; j < 8; j++)
-                    {
-                        Console.Write("*");
-                    }
+                   
                 }
                 else
                 {
