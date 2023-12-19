@@ -138,7 +138,6 @@ namespace week_2_day_5_Strings
             Console.WriteLine("StringBuilderTest : " + stopwatch2.ElapsedMilliseconds);
 
         }
-      
     }
   
     public class String_Vs_StringBuilder
