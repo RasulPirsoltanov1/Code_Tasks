@@ -31,16 +31,7 @@
         }
         static void Main(string[] args)
         {
-            x:
-            if(long.TryParse(Console.ReadLine(),out long phnmp))
-            {
-                Console.WriteLine(phnmp);
-            }
-            else
-            {
-                Console.WriteLine("again ");
-                goto x;
-            }
+          System.Console.WriteLine(args[0]);
         }
     }
 }

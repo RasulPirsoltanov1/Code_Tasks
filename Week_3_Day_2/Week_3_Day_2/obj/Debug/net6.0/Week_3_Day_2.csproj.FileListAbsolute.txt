@@ -12,4 +12,4 @@ C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2\Week_3_Day_2\obj\Debug\ne
 C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2\Week_3_Day_2\obj\Debug\net6.0\Week_3_Day_2.pdb
 C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2\Week_3_Day_2\obj\Debug\net6.0\Week_3_Day_2.genruntimeconfig.cache
 C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2\Week_3_Day_2\obj\Debug\net6.0\ref\Week_3_Day_2.dll
-C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2\Week_3_Day_2\obj\Debug\net6.0\Week_3_Day_2.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2\Week_3_Day_2\obj\Debug\net6.0\Week_3_Day_2.sourcelink.json

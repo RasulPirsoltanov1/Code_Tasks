@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3FlNrRqQyZY3FRTHUolRP3uT+ZtYwiC7ZGSlFY4bddB1dozspWL8ahRGRKnGZXaywCwEZlOaDtkpzxExykxwUA==",
+  "dgSpecHash": "VMXpWfdiV15sQF09ZYz5b3cwMfvfy7ZMfEEl5UbhCdxgpXaczFJz48VQU4ZUeFYpUJceN96+SfzlChqZ76u1Rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\murat.vuranok\\Desktop\\Code_Tasks\\Week_3_Day_2\\Week_3_Day_2\\Week_3_Day_2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\murat.vuranok\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\murat.vuranok\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\murat.vuranok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\murat.vuranok\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

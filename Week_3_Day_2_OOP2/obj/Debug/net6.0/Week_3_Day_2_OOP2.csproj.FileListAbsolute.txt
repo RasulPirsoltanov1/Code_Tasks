@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\bin\Debug\net6.0\Week_3_Day_2_OOP2.exe
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\bin\Debug\net6.0\Week_3_Day_2_OOP2.deps.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\bin\Debug\net6.0\Week_3_Day_2_OOP2.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\bin\Debug\net6.0\Week_3_Day_2_OOP2.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\bin\Debug\net6.0\Week_3_Day_2_OOP2.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\refint\Week_3_Day_2_OOP2.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\Week_3_Day_2_OOP2.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Week_3_Day_2_OOP2\obj\Debug\net6.0\ref\Week_3_Day_2_OOP2.dll
