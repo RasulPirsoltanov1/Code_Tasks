@@ -22,7 +22,7 @@ namespace Lab
         {
             if (Books.Any(x => x.Name == book.Name))
             {
-                Console.WriteLine("Book with the same name already exists.");
+                Console.WriteLine("Add book exception  : Book with the same name already exists.");
             }
             else
             {
@@ -35,7 +35,7 @@ namespace Lab
             {
                 var book = new Book
                 {
-                    Price = i,
+                    Price = Random.Shared.Next(1,10)*10,
                     AuthorName = RandomString(5),
                     Name = RandomString(5),
                     Code = i,
@@ -50,12 +50,26 @@ namespace Lab
             var books = Books.Skip(5 * (page - 1)).Take(5).ToList();
             foreach (var item in books)
             {
-                Console.WriteLine(item.Name);
+                Console.WriteLine(item.Name + " : " +item.Price+"AZN");
             }
         }
-        public void FindBook(string name)
+        public Book FindBook(string name)
         {
-            Console.WriteLine("finded book :" + Books.FirstOrDefault(x => x.Name == name)?.Name);
+            try
+            {
+                var book= Books.FirstOrDefault(x => x.Name == name);
+                if(book == null)
+                {
+                    throw new Exception(" book not found ");
+                }
+                return book;
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return null;
+            }
         }
         public void RemoveAll()
         {
@@ -74,14 +88,32 @@ namespace Lab
     {
         public double Total;
         public int Id { get; set; }
-        public List<Book> Books { get; set; }
+        public List<Book> Books { get; set; } = new List<Book>();
         public double TotalPrice
         {
-            get => Total; set
+            get
             {
-
+                foreach (var item in Books)
+                {
+                    Total += item.Price;
+                }
+                return Total;
             }
         }
         public DateTime OrderDate { get; set; }
+
+
+        public void AddToBasket(Book book)
+        {
+            Books.Add(book);
+        }
+        public void Show()
+        {
+            foreach (var item in Books)
+            {
+                Console.WriteLine(item.Name + " : "+ item.Price + "AZN");
+            }
+            Console.WriteLine("Total : " + TotalPrice);
+        }
     }
 }
