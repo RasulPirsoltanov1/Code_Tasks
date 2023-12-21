@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\bin\Debug\net6.0\Collections_Tests.exe
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\bin\Debug\net6.0\Collections_Tests.deps.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\bin\Debug\net6.0\Collections_Tests.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\bin\Debug\net6.0\Collections_Tests.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\bin\Debug\net6.0\Collections_Tests.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\refint\Collections_Tests.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\Collections_Tests.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Collections_Tests\Collections_Tests\obj\Debug\net6.0\ref\Collections_Tests.dll

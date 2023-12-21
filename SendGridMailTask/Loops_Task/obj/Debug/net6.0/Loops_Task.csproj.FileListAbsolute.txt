@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\bin\Debug\net6.0\Loops_Task.exe
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\bin\Debug\net6.0\Loops_Task.deps.json
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\bin\Debug\net6.0\Loops_Task.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\bin\Debug\net6.0\Loops_Task.dll
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\bin\Debug\net6.0\Loops_Task.pdb
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.dll
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\refint\Loops_Task.dll
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.pdb
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\Loops_Task.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\Code\SendGridMailTask\Loops_Task\obj\Debug\net6.0\ref\Loops_Task.dll

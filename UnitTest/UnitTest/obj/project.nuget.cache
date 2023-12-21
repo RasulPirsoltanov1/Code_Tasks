@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NjoImDhDjBDGILls4yXzlQ/JKEch+oncSE/1bsIQHKFsjmQC6GPT9H2FwsmfdNKJkpdvtmIJLe0NF74tVBTaEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\UnitTest\\UnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\resul\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

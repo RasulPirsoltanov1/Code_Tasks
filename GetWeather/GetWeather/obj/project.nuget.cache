@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLg0aGQM1ecBmMpZh5RKFc9oq2jYmipjfvwxqLYb4b+NwJ5y/bGz6zVhfdjadr23/8+tWYzSiAF/IeRIu3rq1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat.vuranok\\Desktop\\Code_Tasks\\GetWeather\\GetWeather\\GetWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat.vuranok\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\bin\Debug\net6.0\RabbitMq.exe
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\bin\Debug\net6.0\RabbitMq.deps.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\bin\Debug\net6.0\RabbitMq.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\bin\Debug\net6.0\RabbitMq.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\bin\Debug\net6.0\RabbitMq.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\refint\RabbitMq.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\RabbitMq.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\RabbitMq\RabbitMq\obj\Debug\net6.0\ref\RabbitMq.dll
