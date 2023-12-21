@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhYvzObCvsngz3DgRDXeNdBeiMBA8y4zKc+FB9N9RAWp8q9B7eXrJtE3y6cggIhEzBEoetYkwzxuFEG65Nb0TA==",
+  "dgSpecHash": "+t/itj1+2o6m9M4QC6dukx3WyF385UIDSoVq1o3Op3LtPDQrY2HzLgrUz647TfPG8erBmGHNA8HmMaRgZ2vPrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\App.UnitTest\\App.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\App.UnitTest\\App.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\resul\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\resul\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

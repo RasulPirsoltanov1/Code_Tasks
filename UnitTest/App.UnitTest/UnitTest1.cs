@@ -52,10 +52,10 @@ namespace App.UnitTest
             //action
         }
 
-
+        [Test]
         public void Appliaction_WithIsValidFalse_TransferToHr()
         {
-            var mockValidator = new Mock<IIdentityValidator>();
+            var mockValidator = new Mock<IIdentityValidator>(MockBehavior.Default);
             var result = mockValidator.Setup(x => x.isValid(It.IsAny<string>())).Returns(false);
             //arragment
             ApplicationEveluator applicationEveluator = new ApplicationEveluator(mockValidator.Object);
@@ -75,7 +75,7 @@ namespace App.UnitTest
                 }
             };
             var appResult = applicationEveluator.Eveluate(form);
-            Assert.AreEqual(appResult, ApplicationResult.AutoAccepted);
+            Assert.AreEqual(appResult, ApplicationResult.AutoRejected);
             //action
         }
 

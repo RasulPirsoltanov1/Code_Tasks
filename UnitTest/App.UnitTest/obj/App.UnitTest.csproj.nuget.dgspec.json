@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\App.UnitTest\\App.UnitTest.csproj": {}
+    "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\App.UnitTest\\App.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\App.UnitTest\\App.UnitTest.csproj": {
+    "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\App.UnitTest\\App.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\App.UnitTest\\App.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\App.UnitTest\\App.UnitTest.csproj",
         "projectName": "App.UnitTest",
-        "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\App.UnitTest\\App.UnitTest.csproj",
+        "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\App.UnitTest\\App.UnitTest.csproj",
         "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\App.UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\App.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\UnitTest\\UnitTest.csproj": {
-                "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\UnitTest\\UnitTest.csproj"
+              "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\UnitTest\\UnitTest.csproj": {
+                "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\UnitTest\\UnitTest.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\UnitTest\\UnitTest.csproj": {
+    "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\UnitTest\\UnitTest.csproj",
+        "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\UnitTest\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code\\RabbitMQ_Work_Queue\\UnitTest\\UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\Code_Tasks\\UnitTest\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
